@@ -1,7 +1,7 @@
 ﻿/**
     ReSharper disable once InvalidXmlDocComment
     
-    CoherentLoadFix - A ChilloutVR mod to fix Coherent Gameface's Native Imports
+    CoherentLoadFix - A ChilloutVR mod to fix Coherent Gameface's native imports
     Copyright (C) 2022  [information redacted]
 
     This program is free software: you can redistribute it and/or modify
