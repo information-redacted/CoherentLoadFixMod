@@ -18,7 +18,16 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
+using System.Reflection;
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(CoherentLoadFix.CoherentLoadFix), "CoherentLoadFix", "1.0.0", "[information redacted]")]
+[assembly: AssemblyTitle("CoherentLoadFix")]
+[assembly: AssemblyProduct("CoherentLoadFix")]
+[assembly: AssemblyCopyright("Copyright (C) 2022  [information redacted]")]
+[assembly: AssemblyCompany("[information redacted]")]
+[assembly: AssemblyVersion("1.0.1")]
+[assembly: AssemblyFileVersion("1.0.1")]
+[assembly: AssemblyDescription("A ChilloutVR mod to fix Coherent Gameface's native imports")]
+
+[assembly: MelonInfo(typeof(CoherentLoadFix.CoherentLoadFix), "CoherentLoadFix", "1.0.1", "[information redacted]")]
 [assembly: MelonGame("Alpha Blend Interactive", "ChilloutVR")]
